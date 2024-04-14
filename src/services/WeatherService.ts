@@ -1,4 +1,4 @@
-const API_KEY = 'f27f52b96a6945743772946896d66026'; 
+const API_KEY = '3141d459580e6b8c4d3f36708ede03c4'; 
 
 
 export async function getWeather(cityName: string): Promise<any> {

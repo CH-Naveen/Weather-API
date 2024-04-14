@@ -1,0 +1,32 @@
+
+.city-table-container {
+  overflow-x: auto;
+}
+
+.city-table th, .city-table td {
+  padding: 10px; 
+}
+
+.city-table th:nth-child(1) {
+  min-width: 200px; 
+}
+
+
+@media (max-width: 768px) {
+  .weather-card {
+    width: 80%; 
+    margin: 0 auto; 
+  }
+
+  .city-table-container {
+    overflow-x: auto; 
+  }
+
+  .city-table th, .city-table td {
+    font-size: 12px; 
+  }
+
+  .city-table th:nth-child(1) {
+    min-width: unset; 
+  }
+}

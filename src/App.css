@@ -1,0 +1,19 @@
+.custom-image{
+  height: 40vh;
+}
+/* App.css */
+.sunny {
+  background-color: #FFD700; /* Golden */
+}
+
+.rainy {
+  background-color: #6C7A89; /* Blue Gray */
+}
+
+.cloudy {
+  background-color: #B0C4DE; /* Light Steel Blue */
+}
+
+.default {
+  background-color: #ffffff; /* White */
+}

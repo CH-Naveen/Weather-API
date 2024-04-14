@@ -74,9 +74,7 @@ The application uses the following APIs:
 
 Contributions to Upgiving are welcome! Feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+.
 
 ---
 

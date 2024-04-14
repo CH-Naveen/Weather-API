@@ -73,9 +73,3 @@ The application uses the following APIs:
 ## Contributing
 
 Contributions to Upgiving are welcome! Feel free to open issues or submit pull requests.
-
-.
-
----
-
-Feel free to customize this README file further to suit your project's specific details and requirements! Let me know if there's anything else you'd like to add or modify.

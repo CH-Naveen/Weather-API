@@ -70,6 +70,3 @@ The application uses the following APIs:
 - [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data.
 - [OpenDataSoft API](https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/geonames-all-cities-with-a-population-1000/records?limit=100) to fetch city data.
 
-## Contributing
-
-Contributions to Upgiving are welcome! Feel free to open issues or submit pull requests.
